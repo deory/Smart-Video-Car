@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<m2m:conf xmlns:m2m="http://www.onem2m.org/xml/protocols" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tas>
+        <parenthostname>192.168.0.60</parenthostname>
+        <parentport>3106</parentport>
+    </tas>
+    <upload>
+        <ctname>smartcar</ctname>
+        <id>fe80:0000:0000:0000:0212:4b00:0235:bba0</id>
+    </upload>
+    <download>
+        <ctname>smartcar_ctrl</ctname>
+        <id>fe80:0000:0000:0000:0212:4b00:0235:bba0</id>
+    </download>
+</m2m:conf>
