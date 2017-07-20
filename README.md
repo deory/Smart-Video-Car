@@ -18,7 +18,6 @@ When user send signal make to move the smart car using application, the signal t
 
 ## Developement Environment
 - [Raspbian OS](https://www.raspberrypi.org/downloads/raspbian/)
-Raspberry
 - [Node.js](https://nodejs.org/ko/)
 - [Python](https://www.python.org)
 
