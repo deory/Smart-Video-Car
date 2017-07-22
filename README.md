@@ -5,7 +5,7 @@ If you want to know about oneM2M, please reference [this(oneM2M)](http://onem2m.
 In this ASN's CSE(Common Service Entity) is consisted on [Mobius](http://developers.iotocean.org/archives/module/mobius) and AE(Application Entity) is consisted on [nCube:Thyme for Node.js](http://developers.iotocean.org/archives/module/ncube-thyme-nodejs)
 You can control Smart car and watch live movie taked by the car using Android application also provied on this github.
  
-## Connectivity stucture
+## Connectivity structure
 In the smart car, Mobius and nCube:Thyme connected to each other, TAS(Thing Addapt Software) is connected to nCube:Thyme.
 When user send signal make to move the smart car using application, the signal transported to mobius and nCube:Thyme and TAS. Finaly TAS make smart car's wheels to move. 
 <div align="center">
